@@ -19,7 +19,8 @@
             android:text="Consultando con ListView"
             android:layout_margin="20dp"
             android:layout_gravity="center"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            />
 
         <ListView
             android:id="@+id/listView1"

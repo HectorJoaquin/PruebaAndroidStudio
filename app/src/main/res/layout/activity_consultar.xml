@@ -157,6 +157,7 @@
                 android:layout_height="wrap_content"
                 android:background="#FFC125"
                 android:layout_margin="2dp"
+
                 android:text="Eliminar"/>
 
 
